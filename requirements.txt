@@ -1,0 +1,13 @@
+asgiref==3.8.1
+channels==4.1.0
+Django==5.1.2
+mysqlclient==2.2.4
+sqlparse==0.5.1
+tzdata==2024.2
+webencodings==0.5.1
+streamlit==1.19.0
+tensorflow==2.12.0
+pandas==1.5.3
+numpy==1.24.0
+plotly==5.14.0
+yfinance==0.2.18
